@@ -88,16 +88,16 @@ a {
 .head3 img{
 	margin-left: 173px;
 }
-.guding{
-	position: fixed;
-    top: 80px;
-    right: 80px;
-}
 .body{
 	background-color:rgb(249,249,249);
 	height: 2344px;
 	width: 100%;
 	margin: 0 auto;
+}
+.guding{
+	position: fixed;
+    top: 80px;
+    right: 80px;
 }
 .body0{
 	height: 2344px;
