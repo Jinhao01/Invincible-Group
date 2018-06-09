@@ -88,6 +88,11 @@ a {
 .head3 img{
 	margin-left: 173px;
 }
+.guding{
+	position: fixed;
+    top: 80px;
+    right: 80px;
+}
 .body{
 	background-color:rgb(249,249,249);
 	height: 1160px;
